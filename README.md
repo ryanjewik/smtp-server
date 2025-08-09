@@ -44,23 +44,3 @@ DKIM signing with OpenDKIM
 Proper DNS configuration for SPF, DKIM, and DMARC
 
 CloudWatch for operational visibility and troubleshooting
-
-📷 Screenshots
-
-
-
-
-📦 Installation & Setup
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/ryanjewik/smtp-server.git
-cd smtp-server
-
-# (Server setup is tailored for Ubuntu on AWS EC2)
-# Install dependencies and configure Postfix, OpenDKIM, and TLS
-For a detailed step-by-step setup, see the Wiki (if applicable).
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
